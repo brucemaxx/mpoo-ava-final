@@ -2,8 +2,8 @@
 
 ## Integrantes
 
-- [Nome completo do Integrante 1]
-- [Nome completo do Integrante 2]
+- [Bruce Maximiano]
+- [Raquel Aguiar de Souza]
 
 Tema: T11 - Agencia de viagens.
 
